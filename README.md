@@ -1,7 +1,8 @@
 # Database_Projects
 
 Few database projects done during college.
-<br>These projects were developed with MySQL software.
+<br>These projects were developed with MySQL software. These projects include few Query I wrote to add or alter existing database.
+<br>#These projects are for demonstration purpose only.#
 
 
 Here are few projects with small description.
